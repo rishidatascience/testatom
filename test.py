@@ -1,1 +1,1 @@
-print("welcome rishi")
+print "welcome rishi"
